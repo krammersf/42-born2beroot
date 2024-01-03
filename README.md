@@ -4,7 +4,9 @@ This project aims to create a virtual machine running linux that meets security 
 
 ### Complete Guide
 There is a great guide created by waltergcc that inpire this one: https://github.com/waltergcc/42-born2beroot/blob/master/README.md
+
 There is a great guide created by parqualeross : https://github.com/pasqualerossi/Born2BeRoot-Guide
+
 There is a great guide created by gemartin99 : https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md
 
 ## GUIDE - based in waltergcc guide
