@@ -9,7 +9,7 @@ There is a great guide created by parqualeross : https://github.com/pasqualeross
 
 There is a great guide created by gemartin99 : https://github.com/gemartin99/Born2beroot-Tutorial/blob/main/README_EN.md
 
-## GUIDE - based in waltergcc guide
+## GUIDE (based in waltergcc guide)
 
 ## Debian Version
 In my project I used Debian 10.13. If you want to use the same version, follow the download link: https://cdimage.debian.org/cdimage/archive/10.13.0/amd64/iso-cd/debian-10.13.0-amd64-netinst.iso
